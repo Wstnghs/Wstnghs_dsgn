@@ -19,7 +19,7 @@
   --font-body: "Public Sans", -apple-system, sans-serif;
   --font-mono: "JetBrains Mono", ui-monospace, monospace;
 
-  --container: 1240px;
+  --container: 1140px;
   --edge: clamp(20px, 5vw, 64px);
 }
 
